@@ -1,0 +1,61 @@
+Create a DIRECTORY TREE using a list of elements corresponding to the FOLDERS, SUBFOLDERS and FILES (which must have an extension) and also using at least one FORM in HTML. Initially there is only a "/" representing the ROOT folder which cannot erased.  Each FOLDER will have a "+" symbol on its right for adding a new file or a new Subfolder to it and  an "X" symbol on its left for deleting it when possible. It won't be possible to delete a folder or Subfolder if it's not empty. Every file will only have an "X" to erase it.  Every Folder and Subfolder will also have a checkbox (checked by default) next to the "+" symbol  that, when checked, the content of the directory  is  shown, otherwise it will be hidden. The file or folder created will get its name from one input box in the form. Should it already exist then it won't be created. Finally in another box in the same or a different form, you will be able to filter all the files or folders that match with the name you enter. So the matching results will be shown and the rest will be hidden. Use keyboard and mouse events applying the event listeners. Optionally when you press the TAB key inside that input box the name of the searched file or folder will be autocompleted but only in case there is a single matching of the name. .
+
+ASSESSMENT:
+
+1) Correctly indented and commented. Variables names in camel case and meaningful.Use of English in comments, messages, menus and variables.
+
+2) Correct filtering of names.
+
+3) Robustness (no errors in the functions of the program).
+
+4) Code is optimized (modular functions, no repeated instructions,...)
+
+5) Utilization of user defined objects.
+
+6) Correct string management.
+
+7) Use of methods explained (appendChild, setAttribute....)
+
+8) Use of the DOM query selectors.
+
+9) Use of event listeners and event propagation.
+
+10) The task is complete and includes optional features.
+
+NOTE: Upload three files (.html .css. js) in a compressed format.
+
+
+Query selector: https://codepen.io/Etiel/pen/wvWBGLm?editors=1011
+CSS Selector: https://www.w3schools.com/cssref/css_selectors.php
+Parent, children, silbing: https://codepen.io/Etiel/pen/rNLvwOB?editors=1111
+Categories form 1: https://codepen.io/Etiel/pen/GRRmJzJ
+
+
+
+
+
+
+
+
+
+Correctly indented and commented. Variables names in camel case and meaningful.Use of English in comments, messages, menus and variables.ok=1
+
+2) Correct filtering of names.ok=0,75 falla en algunos casos
+
+3) Robustness (no errors in the functions of the program).ko=0,75 fala enter
+
+4) Code is optimized (modular functions, no repeated instructions,...)ok=1
+
+5) Utilization of user defined objects.ko=0
+
+6) Correct string management.ok=1
+
+7) Use of methods explained (appendChild, setAttribute....)ok=1
+
+8) Use of the DOM query selectors.ok=1
+
+9) Use of event listeners and event propagation.ok=1
+
+10) The task is complete and includes optional features.ko=0,5 no autocompleta
+
+TOTAL=10-2-0,25=7,75

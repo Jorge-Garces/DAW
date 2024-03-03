@@ -1,0 +1,30 @@
+Design a HTML document which includes Javascript code which asks for the value of every variable, or more of them, extracted from the given “Street picture” and generates an equivalent picture in your browser. Use at least five horizontal divisions: the top one for the charts, the second one for the door number, the third one for the shop windows, the fourth one for the clock and trafficlight and the fifth one for the cars. Use document.write() to show the resulting html tags, prompt() to ask for the amount and values of the variables and alert() to show  messages and console.log() to inform what the code is doing. Take pictures from Internet to represent the images on the street and present the scene as the user likes.
+
+ASSESSMENT:
+
+1) Correctly indented and commented using console.log for internal messages.
+
+2) Uses English in comments, messages, menus and variables.
+
+3) Robustness and error handling using "alert". (.ko=0,75 falla algo en los mensajes de entrada de datos mensaje de Etiel)
+
+4) The code is optimized.
+
+5) Uses at least 5 divisions.
+
+6) Uses at least 4 control structures (if , while, for and Switch).
+
+7) The task is complete.
+
+8) The use of  Cascade Style Sheets.
+
+9) Variables names and other are in camel case and meaningful.
+
+10) Uses correctly all the proposed functions (alert, prompt, document.write, console.log)
+
+NOTE: Upload three files (.html .css. js) together in a compressed format.
+
+Google Drive: https://drive.google.com/drive/folders/1ZOtHGN6E3u9ExXU6p3zyl8gQL1NB9Ghp
+
+While and loops: https://codepen.io/Etiel/pen/jOqXmdp?editors=1111
+Conditionals an Variables: https://codepen.io/Etiel/pen/gOrZmJp?editors=1111

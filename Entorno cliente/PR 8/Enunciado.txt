@@ -1,0 +1,44 @@
+Use 5 buttons "Get file","POST" , "GET", "Post DB" and "Get DB" with  the form of the previous project. The "POST" buttons should send the correctly filled object to the server. The form fields should go blank. Finally the "GET" button should retrieve the data  from the server and show all the fields in the form again.
+
+This should be the JSON object for interacting with the server:
+
+{ "name" : "Pepe", "surname" : "Lopez Perez", "dni" : "12345678X" , "date": "22/09/2000", "cp": "35500", "mail" : "pepe@gmail.com","phone" :"928666666",
+
+"mobile" : " 666999666", "card": "4539955085883327", "iban" : "ES7921000813610123456789", "password" : "Pepe1234567890" }
+
+The  "GET-DB" and "POST-DB" , instead of storing the object in a variables locally in the server, the values are in a data base. The data object has to be sent in JSON string and the server has to extract the fields after turning it back into an object.The data base has to be created on the very same server using phpMyAdmin with all the fields needed for your form (ID card is the key).
+
+Then  you can enter any ID in the corresponding field that and  when pressed fires a callback function that retrieves the corresponding record from the database and shows the information in the corresponding fields overwriting whatever they had.
+
+ASSESSMENT:
+
+1) Correctly indented and commented. Variables names in camel case and meaningful. Use of English in comments, messages, menus and variables.
+
+2) Robustness and error handling.
+
+3) Gets data from file.
+
+4) Sends anf gets data using of GET and POST methods for variables.
+
+5)Sends and gets data using of GET and POST methods for the data base.
+
+6) Adequate data structures such as Objects its attributes and methods
+
+7) User experience.
+
+8) Use of DOM query selectors or alternative selectors.
+
+9) Database works correctly.
+
+10) Complete and original.
+
+NOTE: Upload three files WITH YOUR NAME AND THE TASK NUMBER (.html .css. js) in a compressed format.
+
+AJAX intro: https://www.w3schools.com/js/js_ajax_intro.asp
+AJAX Etiel: https://codepen.io/Etiel/pen/ExyzEdK
+AJAX Get: https://codepen.io/Etiel/pen/WNGvpLM
+JSON PHP: https://www.w3schools.com/js/js_json_php.asp
+AJAX POST PHP: https://codepen.io/Etiel/pen/jOMPNEe?editors=1010
+POST DB: https://codepen.io/Etiel/pen/WNGmpbM
+GET FROM DB: https://codepen.io/Etiel/pen/RwGdBzr
+Fetch API: https://www.w3schools.com/jsref/api_fetch.asp

@@ -1,0 +1,35 @@
+
+PDF Examen: https://drive.google.com/drive/folders/15U0KVhRSpLMdXE8PrhzMbEFq1QsdUezH
+
+(2 points)  ok=2
+
+FILE tunombrephone.js
+
+
+Assign just one click event and JAVASCRIPT to that entire keyboard so that each key inherits it (1 point).
+
+ko=0 Asignas el evento a cada boton uno por uno
+The event must make, When you click on any of the keys, the corresponding figures appear in the INPUTBOX (1 point).
+
+ok=1
+If, when pressing the green call key …: 
+
+
+The number Fails a regular expression that identifies Spanish telephone numbers,the INPUTBOX figures will turn red  (1 point).
+
+OK=1
+The number does comply with  a regular expression that identifies Spanish telephone numbers,The INPUTBOX figures will turn green and a timer will start, in the format (HH:MM:SS), to the right of the text “Time:” (2 points).
+
+ko=1,75 EL FORMATO FALLA
+After pressing the red end call key …: 
+
+
+The number will be stored locally, with sessionStorage, and the timer will stop (1 point).
+
+        OK=1
+A new INPUTBOX is created, below the previous one, with the time set to zero for the next call. And so on (1 point).
+
+ko=0 no crea nada
+When we press the key redial, the last saved number will appear in the previously created INPUTBOX, which may be used to make a new call or can be overwritten by a new number to make a new call (1 point).
+
+OK=1

@@ -1,0 +1,42 @@
+Modify Project 2 so that:
+
+Do not use alerts or prompts to display messages, but rather modify the internal text or the internal HTML of the DOM.
+Use JAVASCRIPT mouse events to navigate from the main page to the other pages and to select the seats to book by clicking on them.
+In addition, you have to update the price every time a seat is selected or deselected, as well as store the array with the reserved seats so that when you choose the same room again, the seats are still there.
+
+ASSESSMENT:
+
+-Indented and commented correctly. Meaningful variable names in camelCase and with explicit comments in English.
+-Use localStorage to store randomly generated rooms the first time. In addition, the sessionStorage must be used to store the entries of the purchases made in each session.
+-Robustness and error handling.
+-Code optimization (avoid redundancies).
+-Modular functions for each task.
+-Use of Arrays for data management.
+-Using Objects and Constructors to declare objects.
+-Correct use of JAVASCRIPT events. Control the clicks on each object so that you use at least onclick, onmousehover, onmousedown and onmouseup
+and do not use HTML events. Use AddEVENTLISTENER only when you need to accumulate events!
+-Correct use of the DOM (only accessing with getElementby...).
+-Complete and original.
+
+
+DOM: https://www.youtube.com/watch?v=l-0nPnSvbX8&ab_channel=ZacGordon
+Acceder y modificar DOM: https://codepen.io/Etiel/pen/RwaXExr?editors=1111
+Local storage example: https://codepen.io/Etiel/pen/NWrrwXR?editors=1010
+Local y session: https://www.w3schools.com/html/html5_webstorage.asp
+Mouse events: https://codepen.io/Etiel/pen/NWrGzjN?editors=1011
+
+
+NOTA:
+
+ASSESSMENT:
+-Indented and commented correctly. Meaningful variable names in camelCase and with explicit comments in English.ok=1
+-Use localStorage to store randomly generated rooms the first time. In addition, the sessionStorage must be used to store the entries of the purchases made in each session.ko=0,5 solo usa uno
+-Robustness and error handling.ko=0,75 falla al arrepetirse
+-Code optimization (avoid redundancies).ko=0,5 codigo triplicado
+-Modular functions for each task.ok=1
+-Use of Arrays for data management.ok=1
+-Using Objects and Constructors to declare objects.ok=1
+-Correct use of JAVASCRIPT events. Control the clicks on each object so that you use at least onclick, onmousehover, onmousedown and onmouseup and do not use HTML events. Use AddEVENTLISTENER only when you need to accumulate events! ok=1
+-Correct use of the DOM (only accessing with getElementby...).ko=0,75
+-Complete and original.ko=0,75 no confirma compra
+TOTAL 8,25

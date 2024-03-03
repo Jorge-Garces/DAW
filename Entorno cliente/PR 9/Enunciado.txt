@@ -1,0 +1,44 @@
+Modify YOUR finished scripts using JQUERY selectors, events,effects and animations, DOM manipulation and AJAX with JQuery where possible.
+
+a) Modify your script of activity three (cinema with the DOM).
+
+b) Modify your script of activity five (directory tree).
+
+c) Modify your script of activity eight(form with AJAX).
+
+Improve your original program if it was not working fully and add effects where possible.
+
+Assesment:
+
+EACH REMAKE OF THE JQUERY VERSION OF YOUR THREE APPS WILL HAVE TO:
+
+1) Code is indented, commented and all in English.
+
+2) The new version is fully functional (all the required features are present).
+
+3) All possible javascript code lines are translated into Jquery.
+
+4) Add animations (movements:specially in the folder app) and effects with Jquery where possible (in all apps).
+
+5) All messages MUST be shown on the DOM (no ALERT or any other pop up window) using jquery.
+
+6) New version is optimized (no repeated lines, modular functions...)
+
+7) New version is robust (no unexpected or default behaviours, clear messages... )
+
+8) Correct handling of events (event propagation,callback functions are correctly used in jquery...)
+
+9) Connections to Server and Database are correctly handled for the third task in jquery .
+
+10) Addition of extra features using Jquery.
+
+Vanilla vs Jquery: https://javascript.plainenglish.io/why-developers-prefer-vanilla-javascript-over-jquery-e707b249d421
+Jquery in 2023?: https://www.learnenough.com/blog/what-is-jquery
+Jquery CDN: https://releases.jquery.com/
+Jquery 3 example with DOMs: https://codepen.io/Etiel/pen/KKKYaqG
+Jquery examples: https://codepen.io/Etiel/pen/yLLGWaq
+Selectors Jquery: https://www.w3schools.com/jquery/jquery_selectors.asp
+Jquery events: https://www.w3schools.com/jquery/jquery_events.asp
+Jquery events examples: https://codepen.io/Etiel/pen/ZEEVNRP?editors=1011
+Jquery example again: https://codepen.io/Etiel/pen/gOONwRv
+Jquery ajax: https://codepen.io/Etiel/pen/MWWdjRe

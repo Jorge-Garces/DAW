@@ -1,0 +1,63 @@
+PART 1
+
+Design a form in HTML and CSS for signing in to an online shop that includes the following fields: Name (at least one starting with capital), Surname (no more than two separated by a space and each of them starting with capital),Spanish  Id card number, Date of Birth (in DD/MM/YYYY format), Spanish Postal Code, Valid E-mail, Spanish Telephone, Spanish Mobile, IBAN, Credit Card, Password (not visible containing at least 12 digits with letters, numbers and one symbol), Repeat password. The regular expressions are attributes to an object with the methods for TESTING them.
+
+Finally , if all fields are correct the data will be stored in another Javascript object and then locally in your computer after pressing a button "SAVE". You can check it in ~/.config/google-chrome/Default/Local Storage/
+
+Then After reloading the page, with a different button called "RETRIEVE" you will get the information back from the local folder into the object and show each piece of data in the corresponding field.
+
+If a field is not filled in correctly it will change into red color and a hint will appear telling the user what the correct format is.
+
+ASSESSMENT:
+
+1) Correctly indented and commented. Variables names in camel case and meaningful. Use of English in comments, messages, menus and variables.
+
+2) All regular expressions are correct.
+
+3) Events are correct and information appears when a field is wrong.
+
+4) The information is saved correctly in the local storage.
+
+5) The information is retrieved correctly form the local storage and shown in the fields.
+
+6) Uses objects for regular expressions with testing methods included and  also for the data from the fields .
+
+7) Errors are detected when the data is retrieved.
+
+8) Code modular and robust.
+
+9) Code is optimized
+
+10) Complete and user experience.
+
+NOTE: Upload three files WITH YOUR NAME AND THE TASK NUMBER (.html .css. js) in a compressed format.
+
+
+Form validation: https://codepen.io/Etiel/pen/PozLoeg?editors=1010
+Storing and retreiven JSON: https://codepen.io/Etiel/pen/pobBNLO
+Regex checker: https://regex101.com/
+Json tutorial: https://www.w3schools.com/js/js_json_intro.asp
+CookiesVsLocalVsSession: https://codepen.io/Etiel/pen/bGNNqQW
+
+
+1) Correctly indented and commented. Variables names in camel case and meaningful. Use of English in comments, messages, menus and variables.ok=1
+
+2) All regular expressions are correct.ok=1
+
+3) Events are correct and information appears when a field is wrong.ok=1
+
+4) The information is saved correctly in the local storage.ok=1
+
+5) The information is retrieved correctly form the local storage and shown in the fields.ok=1
+
+6) Uses objects for regular expressions with testing methods included and  also for the data from the fields .ok=1
+
+7) Errors are detected when the data is retrieved.ko=0
+
+8) Code modular and robust.ko=0,75 algunos fallos
+
+9) Code is optimized. KO=0,5 repetitivo
+
+10) Complete and user experience.ko=0,75 algo confuso los avisos
+
+TOTAL=8
