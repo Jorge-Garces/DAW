@@ -1,0 +1,3 @@
+Tienes que crear una pila LAMP; con Linux, Apache, MySQL y PHP. Consulta al profe si le sirve con Docker
+
+O si le vale un PDF con todos los pasos seguidos para instalar el Lamp

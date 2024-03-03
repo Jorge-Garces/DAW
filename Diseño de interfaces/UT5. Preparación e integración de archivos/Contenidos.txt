@@ -1,0 +1,10 @@
+Tema en el que se impartió Angular
+Carpeta del drive: https://drive.google.com/drive/folders/1yPEPrgBU_4TG8nmAZfPYDIpcjeEjDbAx
+
+Proyecto Angular de Nelson: https://github.com/Exhore/sign-in-project
+
+## Documentación del profesor ##
+
+Montar proyecto NodeJS con TypeScript: https://dev.to/raguilera82/montar-proyecto-nodejs-con-typescript-1neo
+Versiones de Node con NVM: https://medium.com/devschile/m%C3%BAltiples-versiones-de-node-con-nvm-63b2ac715c38
+Teoría DOR: https://interfacesweb.github.io/unidades/04-sitios-interactivos/04-01-angularjs.html

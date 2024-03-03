@@ -1,0 +1,30 @@
+
+
+## Documentación del profesor ##
+
+Tutorial de React: https://www.w3schools.com/REACT/DEFAULT.ASP
+
+Curso React desde cero: https://www.youtube.com/watch?v=rLoWMU4L_qE&ab_channel=Fazt
+
+Elementos interactivos básicos y avanzados
+Introducción a React.js
+Introducción a Vue.js
+Introducción a AngularJS
+Manejo de eventos
+Cambio de las propiedades de un elemento
+Cambio de las propiedades CSS
+Añadir nuevos elementos
+Añadiendo texto
+Otros métodos
+Ejecución de secuencias de funciones
+Comportamiento de los elementos
+Efectos visuales
+Efectos básicos
+Efectos Fading (opacidad-transparencia de los elementos)
+Efectos Sliding (desplazamiento)
+Otros efectos
+Comportamientos interactivos
+Eventos de ratón
+Eventos de teclado
+Eventos de ventana
+Reproducción de sonido, vídeo y animación

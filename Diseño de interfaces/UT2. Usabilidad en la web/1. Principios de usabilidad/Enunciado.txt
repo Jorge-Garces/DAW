@@ -1,0 +1,13 @@
+Adjunta en los comentarios los enlaces a las páginas web relacionadas con:
+
+Jacob Nielsen
+
+[De Nelson]
+https://www.clinfowiki.org/wiki/index.php/Discount_usability_engineering
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+Steve Krug
+
+[De Nelson]
+https://blogs.gov.scot/digital/2015/06/18/5-tips-usability-testing-steve-krug/
+

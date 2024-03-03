@@ -1,0 +1,1 @@
+Lo mismo que con la de la UT1, coge la actividad de JS del cine y dejala bonita

@@ -1,0 +1,1 @@
+Crea un algoritmo en PHP que muestre en HTML dentro de una tabla la sucesión de fibonacci en diagonal.

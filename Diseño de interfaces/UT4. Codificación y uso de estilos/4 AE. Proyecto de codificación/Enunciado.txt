@@ -1,0 +1,9 @@
+La profe va a mandar a hacer grupos en clase. Cada grupo resuelve una tarea a elegir como por ejemplo:
+
+https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
+
+Dentro de esta web, puedes elegir la actividad que quieras. Revisa cuales te gusta:
+
+Nelson: https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
+Grupo 1: https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw
+Grupo 2: https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-

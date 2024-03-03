@@ -1,0 +1,18 @@
+Carpeta del drive: https://drive.google.com/drive/folders/1_Vw7ul2g4QhwjwBbnvJer8MnVrKdYDz-
+
+## Documentación del profesor ##
+
+1. Identificar y reconocer los principales componentes de una página web.
+
+2. Clasificar sitios web atendiendo a sus objetivos.
+
+3. Conocer los elementos HTML, su función, sus tipos y atributos.
+
+4. Reconocer las posibilidades de modificar las etiquetas HTML.
+
+5. Comprender el funcionamiento de las páginas web creadas con HTML.
+
+6. Definir y modificar el diseño de páginas web de forma directa de acuerdo a los estándares Web.
+
+7. Utilizar herramientas de validación de páginas web.
+Introducción.
